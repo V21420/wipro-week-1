@@ -1,4 +1,4 @@
 # wipro-week-1
 just simple web page has :
-1. Dropdown menu--?which has registration,courses,timetble sections 
-2. profile section-->which has my profile card
+1. Dropdown menu --> which has registration,courses,timetble sections 
+2. profile section --> which has my profile card
